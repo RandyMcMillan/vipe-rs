@@ -1,6 +1,6 @@
 use std::env;
-use std::fs::{self, File};
-use std::io::{self, Read, Write};
+use std::fs::{self};
+use std::io::{self, Write};
 use std::process::{Command, Stdio};
 use tempfile::NamedTempFile;
 
@@ -8,8 +8,6 @@ use tempfile::NamedTempFile;
 use atty::is as is_atty;
 
 // Unix-specific imports for handling raw file descriptors
-#[cfg(unix)]
-use std::os::unix::io::AsRawFd;
 
 /// The version of the vipe utility.
 const VERSION: &str = "0.0.1";
