@@ -1,5 +1,5 @@
-announcing v0.0.3
-  vipe-rs 0.0.3
+announcing v0.0.4
+  vipe-rs 0.0.4
     source.tar.gz
       [checksum] source.tar.gz.sha256
     vipe-rs-installer.sh
@@ -11,19 +11,6 @@ announcing v0.0.3
       [bin] vipe
       [misc] LICENSE, README.md
       [checksum] vipe-rs-aarch64-apple-darwin.tar.xz.sha256
-    vipe-rs-aarch64-pc-windows-msvc-update
-    vipe-rs-aarch64-pc-windows-msvc.zip
-      [bin] vipe.exe
-      [misc] LICENSE, README.md
-      [checksum] vipe-rs-aarch64-pc-windows-msvc.zip.sha256
-    vipe-rs-aarch64-pc-windows-msvc.msi
-      [bin] vipe.exe
-      [checksum] vipe-rs-aarch64-pc-windows-msvc.msi.sha256
-    vipe-rs-aarch64-unknown-linux-gnu-update
-    vipe-rs-aarch64-unknown-linux-gnu.tar.xz
-      [bin] vipe
-      [misc] LICENSE, README.md
-      [checksum] vipe-rs-aarch64-unknown-linux-gnu.tar.xz.sha256
     vipe-rs-x86_64-apple-darwin-update
     vipe-rs-x86_64-apple-darwin.tar.xz
       [bin] vipe
@@ -34,17 +21,8 @@ announcing v0.0.3
       [bin] vipe.exe
       [misc] LICENSE, README.md
       [checksum] vipe-rs-x86_64-pc-windows-msvc.zip.sha256
-    vipe-rs-x86_64-pc-windows-msvc.msi
-      [bin] vipe.exe
-      [checksum] vipe-rs-x86_64-pc-windows-msvc.msi.sha256
     vipe-rs-x86_64-unknown-linux-gnu-update
     vipe-rs-x86_64-unknown-linux-gnu.tar.xz
       [bin] vipe
       [misc] LICENSE, README.md
       [checksum] vipe-rs-x86_64-unknown-linux-gnu.tar.xz.sha256
-    vipe-rs-x86_64-unknown-linux-musl-update
-    vipe-rs-x86_64-unknown-linux-musl.tar.xz
-      [bin] vipe
-      [misc] LICENSE, README.md
-      [checksum] vipe-rs-x86_64-unknown-linux-musl.tar.xz.sha256
-
