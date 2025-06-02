@@ -4,7 +4,7 @@
   "announcement_tag_is_implicit": false,
   "announcement_is_prerelease": false,
   "announcement_title": "v0.0.6",
-  "announcement_github_body": "## Install vipe-rs 0.0.6\n\n### Install prebuilt binaries via shell script\n\n```sh\ncurl --proto '=https' --tlsv1.2 -LsSf https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.6/vipe-rs-installer.sh | sh\n```\n\n### Install prebuilt binaries via powershell script\n\n```sh\npowershell -ExecutionPolicy Bypass -c \"irm https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.6/vipe-rs-installer.ps1 | iex\"\n```\n\n### Install prebuilt binaries via Homebrew\n\n```sh\nbrew install gnostr-org/gnostr-org/vipe-rs\n```\n\n## Download vipe-rs 0.0.6\n\n|  File  | Platform | Checksum |\n|--------|----------|----------|\n| [vipe-rs-aarch64-apple-darwin.tar.xz](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.6/vipe-rs-aarch64-apple-darwin.tar.xz) | Apple Silicon macOS | [checksum](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.6/vipe-rs-aarch64-apple-darwin.tar.xz.sha256) |\n| [vipe-rs-x86_64-apple-darwin.tar.xz](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.6/vipe-rs-x86_64-apple-darwin.tar.xz) | Intel macOS | [checksum](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.6/vipe-rs-x86_64-apple-darwin.tar.xz.sha256) |\n| [vipe-rs-x86_64-pc-windows-msvc.zip](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.6/vipe-rs-x86_64-pc-windows-msvc.zip) | x64 Windows | [checksum](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.6/vipe-rs-x86_64-pc-windows-msvc.zip.sha256) |\n| [vipe-rs-x86_64-unknown-linux-gnu.tar.xz](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.6/vipe-rs-x86_64-unknown-linux-gnu.tar.xz) | x64 Linux | [checksum](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.6/vipe-rs-x86_64-unknown-linux-gnu.tar.xz.sha256) |\n\n",
+  "announcement_github_body": "## Install vipe-rs 0.0.6\n\n### Install prebuilt binaries via shell script\n\n```sh\ncurl --proto '=https' --tlsv1.2 -LsSf https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.6/vipe-rs-installer.sh | sh\n```\n\n### Install prebuilt binaries via powershell script\n\n```sh\npowershell -ExecutionPolicy Bypass -c \"irm https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.6/vipe-rs-installer.ps1 | iex\"\n```\n\n### Install prebuilt binaries via Homebrew\n\n```sh\nbrew install gnostr-org/gnostr-org/vipe-rs\n```\n\n## Download vipe-rs 0.0.6\n\n|  File  | Platform | Checksum |\n|--------|----------|----------|\n| [vipe-rs-aarch64-apple-darwin.tar.xz](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.6/vipe-rs-aarch64-apple-darwin.tar.xz) | Apple Silicon macOS | [checksum](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.6/vipe-rs-aarch64-apple-darwin.tar.xz.sha256) |\n| [vipe-rs-x86_64-apple-darwin.tar.xz](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.6/vipe-rs-x86_64-apple-darwin.tar.xz) | Intel macOS | [checksum](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.6/vipe-rs-x86_64-apple-darwin.tar.xz.sha256) |\n| [vipe-rs-x86_64-pc-windows-msvc.zip](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.6/vipe-rs-x86_64-pc-windows-msvc.zip) | x64 Windows | [checksum](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.6/vipe-rs-x86_64-pc-windows-msvc.zip.sha256) |\n| [vipe-rs-aarch64-unknown-linux-gnu.tar.xz](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.6/vipe-rs-aarch64-unknown-linux-gnu.tar.xz) | ARM64 Linux | [checksum](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.6/vipe-rs-aarch64-unknown-linux-gnu.tar.xz.sha256) |\n| [vipe-rs-x86_64-unknown-linux-gnu.tar.xz](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.6/vipe-rs-x86_64-unknown-linux-gnu.tar.xz) | x64 Linux | [checksum](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.6/vipe-rs-x86_64-unknown-linux-gnu.tar.xz.sha256) |\n\n",
   "releases": [
     {
       "app_name": "vipe-rs",
@@ -37,7 +37,10 @@
         "vipe-rs-x86_64-pc-windows-msvc.zip.sha256",
         "vipe-rs-x86_64-unknown-linux-gnu-update",
         "vipe-rs-x86_64-unknown-linux-gnu.tar.xz",
-        "vipe-rs-x86_64-unknown-linux-gnu.tar.xz.sha256"
+        "vipe-rs-x86_64-unknown-linux-gnu.tar.xz.sha256",
+        "vipe-rs-aarch64-unknown-linux-gnu-update",
+        "vipe-rs-aarch64-unknown-linux-gnu.tar.xz",
+        "vipe-rs-aarch64-unknown-linux-gnu.tar.xz.sha256"
       ],
       "hosting": {
         "github": {
@@ -101,6 +104,46 @@
       "kind": "checksum",
       "target_triples": [
         "aarch64-apple-darwin"
+      ]
+    },
+    "vipe-rs-aarch64-unknown-linux-gnu-update": {
+      "name": "vipe-rs-aarch64-unknown-linux-gnu-update",
+      "kind": "updater",
+      "target_triples": [
+        "aarch64-unknown-linux-gnu"
+      ]
+    },
+    "vipe-rs-aarch64-unknown-linux-gnu.tar.xz": {
+      "name": "vipe-rs-aarch64-unknown-linux-gnu.tar.xz",
+      "kind": "executable-zip",
+      "target_triples": [
+        "aarch64-unknown-linux-gnu"
+      ],
+      "assets": [
+        {
+          "name": "LICENSE",
+          "path": "LICENSE",
+          "kind": "license"
+        },
+        {
+          "name": "README.md",
+          "path": "README.md",
+          "kind": "readme"
+        },
+        {
+          "id": "vipe-rs-aarch64-unknown-linux-gnu-exe-vipe",
+          "name": "vipe",
+          "path": "vipe",
+          "kind": "executable"
+        }
+      ],
+      "checksum": "vipe-rs-aarch64-unknown-linux-gnu.tar.xz.sha256"
+    },
+    "vipe-rs-aarch64-unknown-linux-gnu.tar.xz.sha256": {
+      "name": "vipe-rs-aarch64-unknown-linux-gnu.tar.xz.sha256",
+      "kind": "checksum",
+      "target_triples": [
+        "aarch64-unknown-linux-gnu"
       ]
     },
     "vipe-rs-installer.ps1": {
@@ -284,6 +327,33 @@
             "dist_args": "--artifacts=local --target=aarch64-apple-darwin",
             "targets": [
               "aarch64-apple-darwin"
+            ],
+            "cache_provider": "github"
+          },
+          {
+            "runner": "ubuntu-22.04",
+            "host": "x86_64-unknown-linux-gnu",
+            "install_dist": {
+              "shell": "sh",
+              "run": "curl --proto '=https' --tlsv1.2 -LsSf https://github.com/axodotdev/cargo-dist/releases/download/v0.28.0/cargo-dist-installer.sh | sh"
+            },
+            "dist_args": "--artifacts=local --target=aarch64-unknown-linux-gnu",
+            "targets": [
+              "aarch64-unknown-linux-gnu"
+            ],
+            "packages_install": "if ! command -v cargo-zigbuild > /dev/null 2>&1; then\n  if ! command -v pip3 > /dev/null 2>&1; then\n    dnf install --assumeyes python3-pip\n    pip3 install --upgrade pip\n  fi\n  pip3 install cargo-zigbuild\nfi",
+            "cache_provider": "github"
+          },
+          {
+            "runner": "macos-13",
+            "host": "x86_64-apple-darwin",
+            "install_dist": {
+              "shell": "sh",
+              "run": "curl --proto '=https' --tlsv1.2 -LsSf https://github.com/axodotdev/cargo-dist/releases/download/v0.28.0/cargo-dist-installer.sh | sh"
+            },
+            "dist_args": "--artifacts=local --target=x86_64-apple-darwin",
+            "targets": [
+              "x86_64-apple-darwin"
             ],
             "cache_provider": "github"
           },
