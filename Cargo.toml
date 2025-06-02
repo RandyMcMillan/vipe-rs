@@ -1,6 +1,6 @@
 [package]
 name = "vipe-rs"
-version = "0.0.4"
+version = "0.0.5"
 edition = "2021"
 authors = ["@RandyMcMillan <randy.lee.mcmillan@gmail.com>"]
 description = "Edit piped input in your editor"
@@ -8,12 +8,6 @@ repository = "https://github.com/randymcmillan/vipe-rs"
 homepage = "https://github.com/randymcmillan/vipe-rs"
 license = "MIT OR Apache-2.0"
 keywords = ["editor", "pipe", "stdin", "temporary"]
-
-[package.metadata.wix]
-upgrade-guid = "0DF6AE5A-B8EF-48AD-9422-6D65CF66C1AF"
-path-guid = "0D0C66D8-965D-4E08-AF2D-E1B9D13F18B7"
-license = false
-eula = false
 
 [[bin]]
 name = "vipe"
