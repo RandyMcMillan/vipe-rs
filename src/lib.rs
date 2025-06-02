@@ -10,7 +10,7 @@ use atty::is as is_atty;
 // Unix-specific imports for handling raw file descriptors
 
 /// The version of the vipe utility.
-const VERSION: &str = "0.0.1";
+const VERSION: &str = "1.0.0";
 
 pub fn run() -> Result<(), Box<dyn std::error::Error>> {
     let args: Vec<String> = env::args().collect();
