@@ -1,6 +1,6 @@
 [package]
 name = "vipe-rs"
-version = "0.0.6"
+version = "0.0.7"
 edition = "2021"
 authors = ["@RandyMcMillan <randy.lee.mcmillan@gmail.com>"]
 description = "Edit piped input in your editor"
