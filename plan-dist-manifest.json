@@ -1,14 +1,14 @@
 {
   "dist_version": "0.28.0",
-  "announcement_tag": "v0.0.8",
+  "announcement_tag": "v0.0.9",
   "announcement_tag_is_implicit": false,
   "announcement_is_prerelease": false,
-  "announcement_title": "v0.0.8",
-  "announcement_github_body": "## Install vipe-rs 0.0.8\n\n### Install prebuilt binaries via shell script\n\n```sh\ncurl --proto '=https' --tlsv1.2 -LsSf https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.8/vipe-rs-installer.sh | sh\n```\n\n### Install prebuilt binaries via powershell script\n\n```sh\npowershell -ExecutionPolicy Bypass -c \"irm https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.8/vipe-rs-installer.ps1 | iex\"\n```\n\n### Install prebuilt binaries via Homebrew\n\n```sh\nbrew install randymcmillan/randymcmillan/vipe-rs\n```\n\n## Download vipe-rs 0.0.8\n\n|  File  | Platform | Checksum |\n|--------|----------|----------|\n| [vipe-rs-aarch64-apple-darwin.tar.xz](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.8/vipe-rs-aarch64-apple-darwin.tar.xz) | Apple Silicon macOS | [checksum](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.8/vipe-rs-aarch64-apple-darwin.tar.xz.sha256) |\n| [vipe-rs-x86_64-apple-darwin.tar.xz](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.8/vipe-rs-x86_64-apple-darwin.tar.xz) | Intel macOS | [checksum](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.8/vipe-rs-x86_64-apple-darwin.tar.xz.sha256) |\n| [vipe-rs-x86_64-pc-windows-msvc.zip](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.8/vipe-rs-x86_64-pc-windows-msvc.zip) | x64 Windows | [checksum](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.8/vipe-rs-x86_64-pc-windows-msvc.zip.sha256) |\n| [vipe-rs-x86_64-unknown-linux-gnu.tar.xz](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.8/vipe-rs-x86_64-unknown-linux-gnu.tar.xz) | x64 Linux | [checksum](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.8/vipe-rs-x86_64-unknown-linux-gnu.tar.xz.sha256) |\n| [vipe-rs-x86_64-unknown-linux-musl.tar.xz](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.8/vipe-rs-x86_64-unknown-linux-musl.tar.xz) | x64 MUSL Linux | [checksum](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.8/vipe-rs-x86_64-unknown-linux-musl.tar.xz.sha256) |\n\n",
+  "announcement_title": "v0.0.9",
+  "announcement_github_body": "## Install vipe-rs 0.0.9\n\n### Install prebuilt binaries via shell script\n\n```sh\ncurl --proto '=https' --tlsv1.2 -LsSf https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.9/vipe-rs-installer.sh | sh\n```\n\n### Install prebuilt binaries via powershell script\n\n```sh\npowershell -ExecutionPolicy Bypass -c \"irm https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.9/vipe-rs-installer.ps1 | iex\"\n```\n\n### Install prebuilt binaries via Homebrew\n\n```sh\nbrew install randymcmillan/randymcmillan/vipe-rs\n```\n\n## Download vipe-rs 0.0.9\n\n|  File  | Platform | Checksum |\n|--------|----------|----------|\n| [vipe-rs-aarch64-apple-darwin.tar.xz](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.9/vipe-rs-aarch64-apple-darwin.tar.xz) | Apple Silicon macOS | [checksum](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.9/vipe-rs-aarch64-apple-darwin.tar.xz.sha256) |\n| [vipe-rs-x86_64-apple-darwin.tar.xz](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.9/vipe-rs-x86_64-apple-darwin.tar.xz) | Intel macOS | [checksum](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.9/vipe-rs-x86_64-apple-darwin.tar.xz.sha256) |\n| [vipe-rs-x86_64-pc-windows-msvc.zip](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.9/vipe-rs-x86_64-pc-windows-msvc.zip) | x64 Windows | [checksum](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.9/vipe-rs-x86_64-pc-windows-msvc.zip.sha256) |\n| [vipe-rs-x86_64-unknown-linux-gnu.tar.xz](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.9/vipe-rs-x86_64-unknown-linux-gnu.tar.xz) | x64 Linux | [checksum](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.9/vipe-rs-x86_64-unknown-linux-gnu.tar.xz.sha256) |\n| [vipe-rs-x86_64-unknown-linux-musl.tar.xz](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.9/vipe-rs-x86_64-unknown-linux-musl.tar.xz) | x64 MUSL Linux | [checksum](https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.9/vipe-rs-x86_64-unknown-linux-musl.tar.xz.sha256) |\n\n",
   "releases": [
     {
       "app_name": "vipe-rs",
-      "app_version": "0.0.8",
+      "app_version": "0.0.9",
       "env": {
         "install_dir_env_var": "VIPE_RS_INSTALL_DIR",
         "unmanaged_dir_env_var": "VIPE_RS_UNMANAGED_INSTALL",
@@ -45,7 +45,7 @@
       "hosting": {
         "github": {
           "artifact_base_url": "https://github.com",
-          "artifact_download_path": "/randymcmillan/vipe-rs/releases/download/v0.0.8",
+          "artifact_download_path": "/randymcmillan/vipe-rs/releases/download/v0.0.9",
           "owner": "randymcmillan",
           "repo": "vipe-rs"
         }
@@ -114,7 +114,7 @@
         "x86_64-pc-windows-gnu",
         "x86_64-pc-windows-msvc"
       ],
-      "install_hint": "powershell -ExecutionPolicy Bypass -c \"irm https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.8/vipe-rs-installer.ps1 | iex\"",
+      "install_hint": "powershell -ExecutionPolicy Bypass -c \"irm https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.9/vipe-rs-installer.ps1 | iex\"",
       "description": "Install prebuilt binaries via powershell script"
     },
     "vipe-rs-installer.sh": {
@@ -128,7 +128,7 @@
         "x86_64-unknown-linux-musl-dynamic",
         "x86_64-unknown-linux-musl-static"
       ],
-      "install_hint": "curl --proto '=https' --tlsv1.2 -LsSf https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.8/vipe-rs-installer.sh | sh",
+      "install_hint": "curl --proto '=https' --tlsv1.2 -LsSf https://github.com/randymcmillan/vipe-rs/releases/download/v0.0.9/vipe-rs-installer.sh | sh",
       "description": "Install prebuilt binaries via shell script"
     },
     "vipe-rs-x86_64-apple-darwin-update": {
