@@ -79,8 +79,8 @@ cargo-dist-manifest: 	### 	cargo dist manifest --artifacts=all
 	cargo dist manifest --artifacts=all
 
 plan-dist-manifest:
-#	dist host --steps=create --tag=v0.0.6 --allow-dirty --output-format=json > plan-dist-manifest.json
-	@dist host --steps=create --tag=v0.0.7 --allow-dirty --output-format=json  | sed -e 's/20\.04/22\.04/g' > ./plan-dist-manifest.json
+	rm ./target/distrib/dist-manifest.json || true
+	@dist host --steps=create --tag=v0.0.8 --allow-dirty --output-format=json  | sed -e 's/20\.04/22\.04/g' > ./plan-dist-manifest.json
 #@cat .github/workflows/release.yml  | sed -e 's/20\.04/22\.04/g' > .github/workflows/release.yml
 
 
